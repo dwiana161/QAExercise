@@ -11,4 +11,4 @@ How to run:
 * Install the project
 ### `npm i`
 
-### `node soal1.js or node soal2.js`
+### `node task/soal1.js or node task/soal2.js`
